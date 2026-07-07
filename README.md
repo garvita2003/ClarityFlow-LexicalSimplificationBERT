@@ -37,6 +37,31 @@ Clarity Flow is a lexical simplification project focused on making complex text 
 
 ---
 
+## 🎓 Skills Gained
+
+### Natural Language Processing
+
+- ✅ Complex Word Identification (CWI) workflow design
+- ✅ Context-aware candidate generation using BERT masked LM
+- ✅ Lexical simplification pipeline structuring (identify, generate, rank)
+- ✅ Text quality evaluation using BERTScore
+
+### Machine Learning & Modeling
+
+- ✅ Sequence modeling with Keras/TensorFlow components
+- ✅ Feature preparation from lexical and embedding-based inputs
+- ✅ Model validation using classification metrics like F1-score
+- ✅ Combining traditional NLP features with transformer-based methods
+
+### Data Handling & Experimentation
+
+- ✅ Dataset preprocessing and transformation in pandas
+- ✅ Tokenization, POS tagging, and corpus utilities with NLTK
+- ✅ Embedding integration using GloVe and gensim
+- ✅ Notebook-driven experimentation and iterative evaluation
+
+---
+
 ## 📂 Project Structure
 
 ```text
