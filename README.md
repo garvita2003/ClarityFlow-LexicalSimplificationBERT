@@ -65,7 +65,7 @@ Clarity Flow is a lexical simplification project focused on making complex text 
 ## 📂 Project Structure
 
 ```text
-ClarityFlow-LexicalSimplificationBERT-main/
+ClarityFlow-LexicalSimplificationBERT/
 ├── implementation.ipynb    # End-to-end lexical simplification pipeline notebook
 └── README.md               # Project documentation and setup instructions
 ```
